@@ -1,0 +1,1113 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://docs.google.com/document/u/0/d/1CuKacG3lnnt5B-7kB9p1DiJ2PLFW8TQWn9JG1lTYRJs/mobilebasic
+Subject: 100 Python Practice Problems
+Date: Sat, 7 Jan 2023 17:38:05 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ----"
+
+
+------MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ----
+Content-Type: text/html
+Content-ID: <frame-E2FEB1F4376D5206C126F56047E2F1D5@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.google.com/document/u/0/d/1CuKacG3lnnt5B-7kB9p1DiJ2PLFW8TQWn9JG1lTYRJs/mobilebasic
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-ed29ed3d-bc8e-461f-9a57-e3bc0f5019cb@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-9220a68a-8578-4763-a4f5-52067abc659f@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-0ae5624a-5367-42ca-9092-3c4911905e53@mhtml.blink" /><title>100 Python Practice Problems</title><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=0"><meta name="referrer" content="strict-origin-when-cross-origin"></head><body><div id="docs-ml-header-id" class="docs-ml-header"><span class="docs-ml-header-item docs-ml-header-drive-link"><div id="docs-ml-header-drive-link-aria-label" style="display:none;">Go to Drive</div><a href="https://drive.google.com/u/0?usp=docs_web" aria-labelledby="docs-ml-header-drive-link-aria-label" role="button"><div class="docs-ml-header-icon-container"><div class="docs-ml-icon docs-ml-header-icon docs-ml-arrow-back-dir"><div class="docs-ml-img-container docs-ml-img docs-ml-arrow-back-icon"></div></div></div></a></span><span class="docs-ml-header-item docs-ml-header-document-title"><div class="docs-ml-header-document-title-text">100 Python Practice Problems</div></span></div><div class="app-container"><div class="doc-container"><div class="doc"><div class="doc-content" style="background-color:#ffffff;padding:72pt 72pt 72pt 72pt;max-width:468pt"><h1 id="h.ghy5ky51yxzv" style="padding-top:20pt;color:#000000;padding-left:0;font-size:20pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="background-color:#ffffff;-webkit-text-decoration-skip:none;color:#0000ff;font-weight:400;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:20pt;font-family:&quot;Poppins&quot;;font-style:normal">Python Practice Problems</span></h1><ol class="lst-kix_vc1dkh9wkzu7-0 start" start="1" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:13pt;font-family:&quot;Poppins&quot;;font-weight:400">User will</span><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">&nbsp;</span><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">input (3ages).Find the oldest one</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will convert celsius value to fahrenheit</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">User will input (2numbers).Write a program to swap the numbers</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will give you the sum of 3 digits</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will reverse a four digit number.Also it checks whether the reverse is true.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will tell whether the number entered by the user is odd or even.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will tell whether the given year is a leap year or not.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to find the euclidean distance between two coordinates.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that take a user inputr of three angles and will find out whether it can form a triangle or not.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:13pt;font-family:&quot;Poppins&quot;;font-weight:400">Write a program that will take user input of cost price and selling price and determines whether its a loss or a profit</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to find the simple interest when the value of principle,rate of interest and time period is given.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to find the volume of the cylinder. Also find the cost when ,when the cost of 1litre milk is 40Rs.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write &nbsp;a program that will tell whether the given number is divisible by 3 &amp; 6.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;-webkit-text-decoration-skip:none;color:#1155cc;font-weight:400;text-decoration:underline;text-decoration-skip-ink:none;font-size:13pt;font-family:&quot;Poppins&quot;"><a href="https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1?page%253D2%2526category%255B%255D%253DMathematical%2526category%255B%255D%253DNumbers%2526category%255B%255D%253Dnumber-theory%2526sortBy%253Dsubmissions%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1673116680916554%26amp;usg%3DAOvVaw0yHptTeX6MqQxMyEC_8F0a&amp;sa=D&amp;source=docs&amp;ust=1673116680945705&amp;usg=AOvVaw3w7MENxMKgXsNQ6GkE-tZY" style="color:inherit;text-decoration:inherit">https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1?page=2&amp;category[]=Mathematical&amp;category[]=Numbers&amp;category[]=number-theory&amp;sortBy=submissions</a></span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1?page=3&amp;category[]=Mathematical&amp;category[]=Numbers&amp;category[]=number-theory&amp;sortBy=submissions</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will determine weather when the value of temperature and humidity is provided by the user.</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">TEMPERATURE(C) &nbsp; &nbsp; &nbsp;HUMIDITY(%) &nbsp; &nbsp; &nbsp;WEATHER</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal"></span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp; &nbsp; &nbsp; &gt;= 30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &gt;=90 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hot and Humid</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp; &nbsp; &nbsp; &gt;= 30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt; 90 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hot</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp; &nbsp; &nbsp; &lt;30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&gt;= 90 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cool and Humid</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp; &nbsp; &nbsp; &lt;30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;90 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cool</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="17" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will take three digits from the user and add the square of each digit.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will check whether the number is armstrong number or not.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will take user input of (4 digits number) and check whether the number is narcissist number or not.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will give you the in hand salary after deduction of HRA(10%),DA(5%),PF(3%), and tax(if salary is between 5-10 lakhâ€“10%),(11-20lakhâ€“20%),(20&lt; _ &nbsp; â€“ 30%)(0-1lakh print k).</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:13pt;font-family:&quot;Poppins&quot;;font-weight:400">Write a menu driven program - 1.cm to ft &nbsp;2.kl to miles &nbsp;3.usd to inr &nbsp;4.exit</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that will tell the number of dogs and chicken are there when the user will provide the value of total heads and legs.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:13pt;font-family:&quot;Poppins&quot;;font-weight:400">Write a program that will swap numbers</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to find the sum of first n numbers, where n will be provided by the user. Eg if the user provides n=10 the output should be 55.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can multiply 2 numbers provided by the user without using the * operator</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can find the factorial of a given number provided by the user.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to print the first 25 odd numbers</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to print whether a given number is prime number or not</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Print all the armstrong numbers in the range of 100 to 1000</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">The current population of a town is 10000. The population of the town is increasing at the rate of 10% per year. You have to write a program to find out the population at the end of each of the last 10 years. For eg current population is 10000 so the output should be like this:</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">10th year - 10000</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">9th year - 9000</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">8th year - 8100 and so on</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="31" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to print all the unique combinations of 1,2,3 and 4</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">User will provide 2 numbers you have to find the HCF of those 2 numbers</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">User will provide 2 numbers you have to find the by LCM of those 2 numbers</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Print first 25 prime numbers</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Print the first 20 numbers of a Fibonacci series</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to find the compound interest </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Take a number from the user and find the number of digits in it. </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Print all factors of a given number provided by the user.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Find the reverse of a number provided by the user(any number of digit)</span><span style="background-color:#ffffff;font-size:14pt;font-family:&quot;Poppins&quot;;font-weight:400">&nbsp;</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to print the following pattern</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">*</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">**</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">***</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">****</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">*****</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="42" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to print the following pattern</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">*</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">**</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">***</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">**</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">*</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="43" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write &nbsp;a program to print the following pattern</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">&nbsp; &nbsp; &nbsp; &nbsp; </span><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10.5pt;font-family:&quot;Poppins&quot;;font-style:normal">*</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10.5pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp; &nbsp; &nbsp; * * *</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10.5pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp; &nbsp; * * * * *</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10.5pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp; &nbsp;* * * * * * *</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10.5pt;font-family:&quot;Poppins&quot;;font-style:normal">* * * * * * * * *</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10.5pt;font-family:&quot;Poppins&quot;;font-style:normal"></span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="44" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to print the following pattern</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">1</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">1 2 1</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">1 2 3 2 1</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">1 2 3 4 3 2 1</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">1 2 3 4 5 4 3 2 1</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="45" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to print the following pattern</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">1</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">2 3</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">4 5 6</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">7 8 9 10</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="46" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to calculate the sum of the following series till the nth term</span></li></ol><h1 id="h.sji7vqt2bvde" style="border-right-style:solid;color:#000000;border-top-width:0pt;font-size:20pt;background-color:#ffffff;margin-left:72pt;border-left-style:solid;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;text-align:left;padding:0;border-right-width:0pt;line-height:1.15;page-break-after:avoid;border-left-width:0pt;border-top-style:solid;margin-right:0;border-bottom-width:0pt;border-bottom-style:solid;margin-bottom:0;widows:2"><span style="background-color:#ffffff;color:#273239;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:&quot;Poppins&quot;;font-style:normal">1/1! + 2/2! + 3/3! + 4/4! +â€¦â€¦.+ n/n!</span></h1><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-weight:400">n</span><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp;will be provided by the user</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="47" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Write a Python Program to Find the Sum of the Series till the nth term</span><span style="background-color:#ffffff;color:#3a3a3a;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Poppins&quot;;font-style:normal">: </span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#3a3a3a;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:&quot;Poppins&quot;;font-style:normal">1 + x^2/2 + x^3/3 + â€¦ x^n/n</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12.5pt;font-family:&quot;Poppins&quot;;font-weight:400">n</span><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp;will be provided by the user</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal"></span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal"></span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal"></span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="48" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">The natural logarithm can be approximated by the following series.</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 360.85px; height: 58.73px;"><img alt="" src="https://lh4.googleusercontent.com/eHS0i0QK7zB5YGsdM9DiPKNsIX4dfD1NGcj0vib0f0ommyrwRfOTPnuOZQR4GuEYaeEgDkjrZqQZWe-vOxT_iy05AJid0h85v1GNIl95GRYxokmytm1Z6aaxM2QPwxbmEV7LM7kska26QiQOi-u3qyl_5fOwDOkhirU8Jk9F2TaQTBaJDrz71lhOjgxr=s320" style="width: 360.85px; height: 58.73px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">If x is input through the keyboard, write a program to calculate the sum of the first seven terms of this series.</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="49" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#3a3a3a;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">&nbsp;Write a program that keeps on accepting a number from the user until the user enters Zero. Display the sum and average of all the numbers.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#3a3a3a;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that accepts 2 numbers from the user a numerator and a denominator and then simplifies it</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#3a3a3a;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Eg if the num = 5, den = 15 the answer should be â…“</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;color:#3a3a3a;font-weight:400">Eg if the num = 6, den = 9 the answer should be â…”</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="51" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Find the length of a given string without using the len() function. </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Extract username from a given email. </span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Eg if the email is </span><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400"><a href="mailto:nitish24singh@gmail.com" style="color:inherit;text-decoration:inherit">nitish24singh@gmail.com</a></span><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">&nbsp;then the username should be </span><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400"><a href="mailto:nitish24singh@gmail.com" style="color:inherit;text-decoration:inherit">nitish24singh</a></span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="53" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Count the frequency of a particular character in a provided string. Eg 'hello how are you' is the string, the frequency of h in this string is 2.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Find the index position of a particular character in another string. </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Count the number of vowels in a string provided by the user.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program which can remove a particular character from a string. </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Write a program that can check whether a given string is palindrome or not.</span></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.bro0bgwiwjh1" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a python program to remove all the duplicates from a list</span></h1></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.3x2cx19x76iq" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a python program to convert a string to title case without using the title()</span></h1></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.on9enzuckgsn" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a python program to find the max item from a list without using the max function</span></h1></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.kifrqwm547xn" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a python program to reverse a list</span></h1></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.gibfumbjso5u" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a python program to search a given number from a list</span></h1></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.m3qwhwjkni4b" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can create a new list from a given list where each item in the new list is square of the item of the old list</span></h1></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.farbd1xbblcq" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can reverse words of a given string.</span></h1></li></ol><h1 id="h.oy9hulgy1zn" style="padding-top:20pt;color:#000000;padding-left:0;font-size:20pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Eg if the input is Hello how are you</span></h1><h1 id="h.6q2996hcbmfl" style="padding-top:20pt;color:#000000;padding-left:0;font-size:20pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Output should be you are how Hello</span></h1><ol class="lst-kix_vc1dkh9wkzu7-0" start="65" style="padding:0;margin:0"><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.wk8gm8ft009m" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can count the number of words in a given string</span></h1></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.esg4b2iq257y" style="display:inline"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to check if a list is in ascending order or not</span></h1></li><li style="padding-top:20pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><h1 id="h.c1e4srkrwe1h" style="display:inline"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Create 2 lists from a given list where 1st list will contain all the odd numbers from the original list and the 2nd one will contain all the even numbers </span></h1></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to merge 2 list without using the + operator</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to replace an item with a different item if found in the list </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can convert a 2D list to 1D listWrite a program that can print </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can perform union and intersection on 2 given list. </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">the max item of each row of a matrix. </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can convert an integer to string. </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to print the shape of a matrix. </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can check if you can perform matrix multiplication on 2 matrices </span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Write a program to perform matrix multiplication on 2 matrices</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can sort a given unsorted list. Dont use any built in function for sorting.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that can find the most used word in a bollywood song</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Assume a list with numbers from 1 to 10 and then convert it into a dictionary where the key would be the numbers of the list and the values would be the square of those numbers.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to merge two given dictionary</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program to swap the key value pair for max and min values</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Eg if the dict is like this {â€˜aâ€™:1,â€™bâ€™:2,â€™câ€™:3}</span></p><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Output should be {a:3,b:2,c:1}</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="82" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Write a program to find histogram of a given set of numbers. Take bin size from user. Print the result in the form of a dictionary.</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a function that accepts a string and returns the number of upper case chars and lower case chars as a dictionary</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a function that accepts a list of strings and performs Bag of words and convert it to numerical vectors.</span></li></ol><p style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">https://en.wikipedia.org/wiki/Bag-of-words_model</span></p><ol class="lst-kix_vc1dkh9wkzu7-0" start="85" style="padding:0;margin:0"><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a dummy program that can perform login and registration using a menu driven program</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Poppins&quot;;font-style:normal">Write a program that accepts neighbors(set of 2D co-ordinates) and a point(single 2D co-ordinate) and tells nearest neighbor(in terms of euclidean distance)</span></li><li style="padding:0;color:#000000;font-size:11pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;font-family:&quot;Poppins&quot;;font-weight:400">Write a function that accepts a number and returns itâ€™s factorial. You can not use any loop</span></li></ol></div></div></div></div></body></html>
+------MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-ed29ed3d-bc8e-461f-9a57-e3bc0f5019cb@mhtml.blink
+
+@charset "utf-8";
+
+html { overflow: auto; }
+
+body { margin: 0px; overflow: hidden; overflow-wrap: break-word; }
+
+.app-container { height: 100%; margin-top: 57px; overflow: auto; }
+
+.doc { padding: 20px 12px 0px; position: relative; }
+
+.doc .doc-content { margin: auto; padding: 24px 0px !important; max-width: 770px !important; }
+------MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-9220a68a-8578-4763-a4f5-52067abc659f@mhtml.blink
+
+@charset "utf-8";
+
+.docs-ml-noselect { -webkit-user-drag: none; user-select: none; }
+
+.docs-ml-promotion { z-index: 1002; }
+
+.docs-ml-header { z-index: 1; }
+
+.docs-ml-icon { direction: ltr; display: inline-block; text-align: left; overflow: hidden; position: relative; vertical-align: middle; }
+
+.docs-ml-img::before { content: url("//ssl.gstatic.com/docs/common/mobileweb_sprite1.png"); }
+
+.docs-ml-img-container { height: 156px; position: absolute; width: 36px; }
+
+.docs-ml-docs-logo-icon { left: 0px; top: -36px; }
+
+.docs-ml-sheets-logo-icon { left: 0px; top: 0px; }
+
+.docs-ml-slides-logo-icon { left: 0px; top: -96px; }
+
+.docs-ml-arrow-back-icon { left: 0px; top: -132px; }
+
+.docs-ml-edit-icon { left: 0px; top: -72px; }
+
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+  .docs-ml-img { content: url("//ssl.gstatic.com/docs/common/mobileweb_sprite1.png"); }
+  .docs-ml-img-container { height: 156px; position: absolute; width: 36px; }
+  .docs-ml-docs-logo-icon { left: 0px; top: -36px; }
+  .docs-ml-sheets-logo-icon { left: 0px; top: 0px; }
+  .docs-ml-slides-logo-icon { left: 0px; top: -96px; }
+  .docs-ml-arrow-back-icon { left: 0px; top: -132px; }
+  .docs-ml-edit-icon { left: 0px; top: -72px; }
+}
+
+.docs-ml-header { background: rgb(250, 250, 250); border-bottom: 1px solid rgb(203, 203, 203); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px; box-sizing: border-box; font-family: "Google Sans", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 4px 0px; position: fixed; left: 0px; top: 0px; width: 100%; }
+
+.docs-ml-header-icon { height: 24px; opacity: 0.6; width: 24px; }
+
+.docs-ml-header-icon-container { padding: 12px; }
+
+.docs-ml-header-item { display: inline-block; vertical-align: middle; }
+
+.docs-ml-header-drive-link { padding-left: 4px; }
+
+body[dir="rtl"] .docs-ml-arrow-back-dir { transform: scaleX(-1); }
+
+.docs-ml-header-document-title { box-sizing: border-box; line-height: 24px; padding: 0px 12px; width: calc(100% - 104px); }
+
+.docs-ml-header-document-title-text { font-size: 20px; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.docs-ml-header-edit-button { float: right; padding-right: 4px; }
+
+.docs-ml-promotion { background: white; bottom: 0px; box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 12px; font-family: Arial, Helvetica, sans-serif; left: 0px; position: fixed; width: 100%; }
+
+.docs-ml-promotion-off-screen { transform: translateY(100%); }
+
+.docs-ml-promotion-shown { transform: translateY(0px); transition: transform 333ms cubic-bezier(0.4, 0, 0.2, 1) 0s; }
+
+.docs-ml-promotion-dismissed { transform: translateY(100%); box-shadow: none; }
+
+.docs-ml-promotion-no-horizontal-scroll { overflow-x: hidden; }
+
+.docs-ml-promotion-header { display: table; padding: 24px 24px 0px; }
+
+.docs-ml-promotion-app-icon-container { display: table-cell; }
+
+.docs-ml-promotion-app-icon { height: 36px; width: 36px; }
+
+@media (min-width: 600px) {
+  .docs-ml-promotion-app-icon { transform: scale(1.33); }
+}
+
+.docs-ml-promotion-text { display: table-cell; padding-left: 20px; vertical-align: top; }
+
+.docs-ml-promotion-text-heading { color: rgba(0, 0, 0, 0.87); font-size: 16px; font-weight: bold; padding-bottom: 7px; }
+
+.docs-ml-promotion-text-body { color: rgba(0, 0, 0, 0.87); font-size: 14px; }
+
+.docs-ml-promotion-action-row { float: right; margin-top: 6px; padding: 8px 24px; }
+
+.docs-ml-promotion-action-row-desktop { margin-top: 6px; }
+
+.docs-ml-promotion-action-container { display: inline-block; height: 48px; margin: 6px 4px; vertical-align: middle; }
+
+.docs-ml-promotion-action-button { display: inline-block; font-size: 14px; font-weight: 500; padding: 9px 12px; vertical-align: middle; }
+
+.docs-ml-promotion-action-button-wrapper:focus { outline-color: rgb(214, 214, 214); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button { background-color: rgb(66, 133, 244); border-radius: 4px; color: rgb(250, 250, 250); border: 1px solid transparent; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button:active { background-color: rgb(25, 103, 210); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button { background-color: rgb(250, 250, 250); color: rgb(95, 99, 104); border-radius: 4px; border: 1px solid rgb(218, 220, 224); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button:active { background-color: rgb(245, 245, 245); }
+
+.docs-ml-promotion.desktop { text-align: center; }
+
+@media (orientation: portrait) {
+  .docs-ml-promotion.desktop { padding-top: 56px; padding-bottom: 80px; }
+}
+
+@media (orientation: landscape) {
+  .docs-ml-promotion.desktop { padding-top: 36px; padding-bottom: 56px; }
+}
+
+.docs-ml-promotion-heading-desktop { font-family: "Google Sans"; font-size: 18px; font-weight: bold; color: rgb(32, 33, 36); padding-top: 18px; padding-bottom: 10px; line-height: 1.5; max-width: 360px; margin: 0px auto; }
+
+@media (orientation: landscape) {
+  .docs-ml-promotion-heading-desktop { padding-top: 0px; max-width: none; }
+}
+
+.docs-ml-promotion-text-body-desktop { font-size: 14px; line-height: 1.5; color: rgb(95, 99, 104); padding-bottom: 10px; }
+
+.docs-icon.docs-ml-promotion-desktop-icon { height: 40px; width: 40px; transform: scale(2.5); transform-origin: center top; }
+
+.docs-icon-ml-promotion-icon-container-desktop { height: 100px; width: 100px; margin-left: auto; margin-right: auto; }
+
+@media (orientation: landscape) {
+  .docs-icon-ml-promotion-icon-container-desktop { display: inline-block; vertical-align: top; }
+  .docs-ml-promotion-description-desktop { display: inline-block; vertical-align: top; text-align: left; padding-left: 39px; max-width: 645px; }
+}
+
+@media (orientation: landscape) {
+  .docs-ml-promotion-action-row-desktop { margin-left: -8px; }
+}
+
+.docs-ml-promotion-action-row-desktop .docs-ml-promotion-action-container { margin: 6px 8px; font-family: "Google Sans"; }
+
+.docs-ml-promotion-action-row-desktop .docs-ml-promotion-action-button-wrapper:focus { outline: none; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(26, 115, 232); color: rgb(255, 255, 255); border: 1px solid transparent !important; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed:active { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(26, 115, 232); color: rgb(255, 255, 255); border: 1px solid transparent !important; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: white; color: rgb(26, 115, 232); border: 1px solid rgb(218, 220, 224) !important; }
+
+.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed { border-radius: 4px; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; color: rgb(255, 255, 255); background: rgb(80, 148, 237); box-shadow: rgba(66, 133, 244, 0.15) 0px 1px 3px 1px; border: 1px solid transparent !important; }
+
+.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-no-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(233, 241, 254); border: 1px solid rgb(193, 216, 251) !important; }
+------MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png
+
+‰PNG
+
+   IHDR   $   œ   ™	€  	UIDAThŞí[[lWşÎ™Ù›Çn¸8Ik'm\š*VÒEBj¸51/T¢5ÚP¥ Zå&Ñ‡Já	„*c‚h¤ Ü€€B›òÂå)I+”“æ! †„XNHÓbrñ:ï®wæü<ìmvvÎÌ9Ç“x#ö6=sûæÿşÿ?ç|{h2ca;‡~ÿ½şi7×GBTDTÙvIÔ¶§zŞÆölÊÅ
+hóï¾½ãb~f „Ò½‰*[¥¶
+>*>»zË…Û¦»z,èâ²ó3?0uú²¶%K/İš=±sl,  ï˜XGfÑªäÚê‚’"ªñÒÔ·Uè
+²L*İŸ¹·ı°(9 Ï?/˜(‡‘Ï¥Édb}Û½í‡TAq(ÜÀ&Êc~³ö@òÌ¸
+(®$L‡DƒÇÒ©ô:»?slxt4eHYı'L];ÿ˜š©tzMçÆÎÉíc;¥²#)óù Š>bÀÁsÇ{SSèL.#‚¨T<Æ@ å—Sùc îÒ$ØT¾±Ë	Ç)ğì9°œ0*e,¥šOk´=D’DAiï?–3ˆÌbà'_	 OŒP&÷^`ĞWÚXé?Ñnf0Ç[×˜> 2 P_"cåàTüdˆ"©$`i6' Wj”EÅ’F­	V*4®   à“+7Iû¾ Ïî;ófıõ,˜RlßxL«×ßwæMÏÃ•=f13Êdtıbâ öz½úı…MÛ ß©ê¡í}bûê-`"@›2 ˜)æq.w©JQÁ- Ş™½X=îr1/cÔaOòÌÚ­xfíÖ†öï
+x ½­ÓUìç§bïÄÁêş‘ûŸøúøXõ¼'WoÁ}†få¼ëPåb3Å\=~Ê*ÇÈkULi_±áşmîßÖpìIe²ëŒ=$·½§à¥S5Ê~¸é €¯ÿ¬zÌç²ÌS0McHö¤^Êà¡ìÜìÅZ&:9­	Áü([»Ãk·5´Ÿ|øÇ¡±8¯´—=Ë®şIø$;©=¨e?:ş‡HoFyÅ,ËF²XQcC¡7 a—–Nƒ„#²Q3Z¿GH:§£úé9Ñ%m@	ØÃŠÄ¦ª8ôU#Áªû'õÚ–ÕK‚˜Nà{Å«ºvFÂ±01ó•ßœFË®‡Æøü¯óıÓ³N,Pc¼T^–>z_Ûş¡Í<^ñK»¯îÈ˜Gcô¤5y›êÛ‰İg_¸ÓIöòø4Æé9f¦1áÖÅ|éYûÚ‰±±Éø4FFóÓ—,N­¢•İGuA)jŒUX¡›Édı¼÷öÃ: ”«º›’º8A$lk½µê¶Cª ¢5Æ 0Ô'… µSö [Ù=®Š+	„Ã­‰tb³bÙ±ÑÑ“fcPg%ãûş¯wæ“¡-“\c­í™Üâ)mÁ*
+ÀñÖé"Îıç<ÚÓ%iªº1 lù•BÊDcª1–µ(âŞË/Â™ó3sù’bæÎ™‰Æ4 ã C²£ÅkW!œBUôde¥6VœâğÑÃ $·£˜· œ9¥i¾ú˜šÂëMX\Ù©\ÆAN1Baó©>•şÙO¦ \'´;2£LV‡(\•åv"Ê]LeƒÙ6 \Ä–e¿|ÊÕêõ‡vóÆ$`–©`Õh¯½ÅÕÊ‚)ÌÉôg®¼z„EN©2ÕèÿŒ³ìW_V£¬nh·§ÆØhûpÉ~`áµ*,#¼rDvìNÂjU,bÃËO-aâÑ-­§¶SÔT?›¢¨ëÌ+¨%öÊß˜qw2¯’ùòÓÑYöÈ‹–<Ö#j‘e\ı(Üƒ±PöÛÊT¼bC¤1ÿBD¬P1¤<ƒ&Í ¸xÈÜeU§GcH¶àÀ@cdÅÂpÃÍ	c# ÔgÅ93ñ#;³½°^K@Kct$ã ¬¹ÔÄëß¿¥¥1¶¬©í ®i0yO†ïZh@Ï”¤‘…òÌãåíç}€..M.€'| f|ìF‚ôÅŒÔsÆêñM“Ì‚Ğ´íf“ki0[o&0¿ÑéİT`Ğl` óĞB'š
+LËZfb¡SäüáÁ~§8İÇXí'7"Ïêlï¶[SÖÚÒŞÏ7Ä»öãêõ;˜3µ§A6 ÿ¯ùõí‚€Äû¿xáßgWôÜ5øl|k?Xá¿Fk?H <³téíw¼{â@È.Ú€`Qg¤ºbédçªMì¨.(]#á£%@ğ‘èm©Tÿ†¬Ã“  ùÁD®pôy*±¾ëƒ‰CªâÑAA`¢ÖËøèKğûÙ¸Š§¸0A+>…Óp^[:¹nÙÆâ±?§b ,
+Lí/c@áÒ±À+&3‹ÖlŞ’<0¶]ê)áœ‚¿Khd Ïÿ¦ÎVWmI7+íc\,¿»û²şÚ)¬•<d[.Òô6f³N®´¥²â“	çXcà!ùM£Úâ O$º€¹Ë€[`ua/+{ƒB¼V¾)+õKéBñA™JB†ı<EÿµÛnPJ>ãçİ®P*?Z/0ÇpÅ¹u|Ô¾¬²UB)]ù+ıKÆ” 8sãòÄİ?¬ŒZ—+r`‡ï¬»eÃM²Ô¶2êC©ÿy¸|MfS&9Ñ½æÌ„Ÿi/¬%Ú³fP—'½»ììÇÕ½Âµò[=ßŒÈÂX²Ì?Vò/$ 5êc¥,ˆb1¯‡êŞHˆêBÂöSÌï—È¿öE½»¡Ø+5@ï{
+èş4(ä²:½¦]©<ÇÛAÉv“”ãRcÄXşˆ¼ú,Tä"ú»*5?ş9Pûµ¾LFØÌ!­É€e,ûXöğx#òÌÑõf(¶i’u¾Ñué:d™ú@No¦.6²¡óµÀyv-u5ˆäBí‡SàÃ7¤± ºEÃ÷Ë²¯¦zô‚Å³öƒ„+l`â–ÏàtK+lYË$öò§iÀ€"€{š	Ì§š	Ì#-006§™À˜~æe7‰y)jjú uİ:W[  o·Fb-kVûğ`ac%`    IEND®B`‚
+------MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-0ae5624a-5367-42ca-9092-3c4911905e53@mhtml.blink
+
+@charset "utf-8";
+
+@import url("https://themes.googleusercontent.com/fonts/css?kit=qQd6D95egUzVkA2ytt6-zw");
+
+ol.lst-kix_xxlsx7ubeyb5-6.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-6 0; }
+
+ol.lst-kix_hhyl6ec64ev1-3.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-3 0; }
+
+ol.lst-kix_4riywqyv4gu5-5.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-5 0; }
+
+ol.lst-kix_o9nysfaxtggw-8.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-8 0; }
+
+.lst-kix_98jtis9wf9ah-5 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-5 1; }
+
+.lst-kix_1x1weo1fm6c0-0 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-0 1; }
+
+ol.lst-kix_98jtis9wf9ah-8.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-8 0; }
+
+.lst-kix_vc1dkh9wkzu7-5 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-5 1; }
+
+ol.lst-kix_oephdaue9t3w-0.start { counter-reset: lst-ctn-kix_oephdaue9t3w-0 0; }
+
+.lst-kix_5qcsr517ouwn-6 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-6) ". "; }
+
+.lst-kix_5qcsr517ouwn-5 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-5, lower-roman) ". "; }
+
+.lst-kix_5qcsr517ouwn-7 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-7, lower-latin) ". "; }
+
+.lst-kix_5qcsr517ouwn-4 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-4, lower-latin) ". "; }
+
+.lst-kix_5qcsr517ouwn-8 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-8, lower-roman) ". "; }
+
+ol.lst-kix_5qcsr517ouwn-8.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-8 0; }
+
+ol.lst-kix_98jtis9wf9ah-3.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-3 0; }
+
+.lst-kix_4riywqyv4gu5-4 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-4 1; }
+
+.lst-kix_hhyl6ec64ev1-2 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-2 1; }
+
+.lst-kix_kepv4egm85d-5 > li { counter-increment: lst-ctn-kix_kepv4egm85d-5 1; }
+
+ol.lst-kix_4riywqyv4gu5-0.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-0 0; }
+
+.lst-kix_oephdaue9t3w-6 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-6 1; }
+
+ol.lst-kix_uzwtk6q6390z-1.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-1 0; }
+
+.lst-kix_5qcsr517ouwn-0 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-0) ". "; }
+
+.lst-kix_5qcsr517ouwn-0 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-0 1; }
+
+.lst-kix_5qcsr517ouwn-2 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-2, lower-roman) ". "; }
+
+ol.lst-kix_uzwtk6q6390z-8.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-8 0; }
+
+.lst-kix_5qcsr517ouwn-1 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-1, lower-latin) ". "; }
+
+.lst-kix_5qcsr517ouwn-3 > li::before { content: "" counter(lst-ctn-kix_5qcsr517ouwn-3) ". "; }
+
+ol.lst-kix_oephdaue9t3w-5.start { counter-reset: lst-ctn-kix_oephdaue9t3w-5 0; }
+
+ol.lst-kix_5qcsr517ouwn-3.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-3 0; }
+
+.lst-kix_1x1weo1fm6c0-4 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-4 1; }
+
+.lst-kix_1x1weo1fm6c0-7 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-7 1; }
+
+.lst-kix_xxlsx7ubeyb5-5 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-5 1; }
+
+.lst-kix_vc1dkh9wkzu7-1 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-1 1; }
+
+ol.lst-kix_1x1weo1fm6c0-6.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-6 0; }
+
+ol.lst-kix_kepv4egm85d-6.start { counter-reset: lst-ctn-kix_kepv4egm85d-6 0; }
+
+ol.lst-kix_oephdaue9t3w-7.start { counter-reset: lst-ctn-kix_oephdaue9t3w-7 0; }
+
+ol.lst-kix_uzwtk6q6390z-6.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-6 0; }
+
+.lst-kix_it2757i2vc22-7 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-7, lower-latin) ". "; }
+
+.lst-kix_o9nysfaxtggw-7 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-7, lower-latin) ". "; }
+
+.lst-kix_it2757i2vc22-5 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-5, lower-roman) ". "; }
+
+ol.lst-kix_it2757i2vc22-0.start { counter-reset: lst-ctn-kix_it2757i2vc22-0 0; }
+
+ol.lst-kix_uzwtk6q6390z-3.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-3 0; }
+
+.lst-kix_o9nysfaxtggw-3 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-3 1; }
+
+ol.lst-kix_hhyl6ec64ev1-5.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-5 0; }
+
+.lst-kix_4riywqyv4gu5-1 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-1 1; }
+
+ol.lst-kix_1x1weo1fm6c0-1.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-1 0; }
+
+.lst-kix_5qcsr517ouwn-8 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-8 1; }
+
+.lst-kix_uzwtk6q6390z-2 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-2 1; }
+
+ol.lst-kix_oephdaue9t3w-5 { list-style-type: none; }
+
+ol.lst-kix_oephdaue9t3w-6 { list-style-type: none; }
+
+.lst-kix_xxlsx7ubeyb5-1 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-1 1; }
+
+ol.lst-kix_oephdaue9t3w-7 { list-style-type: none; }
+
+ol.lst-kix_hhyl6ec64ev1-8.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-8 0; }
+
+ol.lst-kix_oephdaue9t3w-8 { list-style-type: none; }
+
+.lst-kix_it2757i2vc22-2 > li { counter-increment: lst-ctn-kix_it2757i2vc22-2 1; }
+
+ol.lst-kix_1x1weo1fm6c0-4.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-4 0; }
+
+.lst-kix_hhyl6ec64ev1-4 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-4, lower-latin) ". "; }
+
+.lst-kix_hhyl6ec64ev1-8 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-8, lower-roman) ". "; }
+
+ol.lst-kix_hhyl6ec64ev1-7 { list-style-type: none; }
+
+ol.lst-kix_hhyl6ec64ev1-6 { list-style-type: none; }
+
+ol.lst-kix_hhyl6ec64ev1-8 { list-style-type: none; }
+
+ol.lst-kix_oephdaue9t3w-0 { list-style-type: none; }
+
+.lst-kix_hhyl6ec64ev1-6 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-6 1; }
+
+ol.lst-kix_oephdaue9t3w-1 { list-style-type: none; }
+
+ol.lst-kix_oephdaue9t3w-2 { list-style-type: none; }
+
+ol.lst-kix_oephdaue9t3w-3 { list-style-type: none; }
+
+.lst-kix_hhyl6ec64ev1-6 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-6) ". "; }
+
+ol.lst-kix_oephdaue9t3w-4 { list-style-type: none; }
+
+.lst-kix_vc1dkh9wkzu7-2 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-2 1; }
+
+ol.lst-kix_5qcsr517ouwn-6.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-6 0; }
+
+.lst-kix_o9nysfaxtggw-2 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-2 1; }
+
+.lst-kix_hhyl6ec64ev1-0 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-0) ". "; }
+
+ol.lst-kix_kepv4egm85d-4.start { counter-reset: lst-ctn-kix_kepv4egm85d-4 0; }
+
+ol.lst-kix_xxlsx7ubeyb5-8.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-8 0; }
+
+.lst-kix_98jtis9wf9ah-1 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-1 1; }
+
+.lst-kix_vc1dkh9wkzu7-8 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-8 1; }
+
+.lst-kix_hhyl6ec64ev1-2 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-2, lower-roman) ". "; }
+
+.lst-kix_o9nysfaxtggw-3 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-3) ". "; }
+
+.lst-kix_4riywqyv4gu5-3 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-3) ". "; }
+
+.lst-kix_uzwtk6q6390z-1 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-1 1; }
+
+ol.lst-kix_98jtis9wf9ah-5.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-5 0; }
+
+.lst-kix_it2757i2vc22-1 > li { counter-increment: lst-ctn-kix_it2757i2vc22-1 1; }
+
+.lst-kix_it2757i2vc22-3 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-3) ". "; }
+
+.lst-kix_4riywqyv4gu5-1 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-1, lower-latin) ". "; }
+
+.lst-kix_o9nysfaxtggw-5 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-5, lower-roman) ". "; }
+
+.lst-kix_it2757i2vc22-1 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-1, lower-latin) ". "; }
+
+.lst-kix_5qcsr517ouwn-7 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-7 1; }
+
+.lst-kix_5qcsr517ouwn-1 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-1 1; }
+
+.lst-kix_4riywqyv4gu5-7 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-7, lower-latin) ". "; }
+
+.lst-kix_o9nysfaxtggw-1 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-1, lower-latin) ". "; }
+
+.lst-kix_4riywqyv4gu5-5 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-5, lower-roman) ". "; }
+
+.lst-kix_4riywqyv4gu5-8 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-8 1; }
+
+.lst-kix_xxlsx7ubeyb5-4 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-4 1; }
+
+.lst-kix_1x1weo1fm6c0-6 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-6) ". "; }
+
+.lst-kix_1x1weo1fm6c0-5 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-5, lower-roman) ". "; }
+
+ol.lst-kix_it2757i2vc22-7.start { counter-reset: lst-ctn-kix_it2757i2vc22-7 0; }
+
+ol.lst-kix_5qcsr517ouwn-0.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-0 0; }
+
+ol.lst-kix_kepv4egm85d-2.start { counter-reset: lst-ctn-kix_kepv4egm85d-2 0; }
+
+.lst-kix_4riywqyv4gu5-7 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-7 1; }
+
+.lst-kix_kepv4egm85d-4 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-4, lower-latin) ". "; }
+
+.lst-kix_1x1weo1fm6c0-2 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-2, lower-roman) ". "; }
+
+.lst-kix_1x1weo1fm6c0-1 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-1, lower-latin) ". "; }
+
+.lst-kix_kepv4egm85d-3 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-3) ". "; }
+
+ol.lst-kix_kepv4egm85d-0 { list-style-type: none; }
+
+ol.lst-kix_kepv4egm85d-1 { list-style-type: none; }
+
+ol.lst-kix_xxlsx7ubeyb5-3.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-3 0; }
+
+ol.lst-kix_kepv4egm85d-2 { list-style-type: none; }
+
+ol.lst-kix_kepv4egm85d-3 { list-style-type: none; }
+
+ol.lst-kix_kepv4egm85d-4 { list-style-type: none; }
+
+ol.lst-kix_kepv4egm85d-5 { list-style-type: none; }
+
+ol.lst-kix_kepv4egm85d-6 { list-style-type: none; }
+
+ol.lst-kix_kepv4egm85d-7 { list-style-type: none; }
+
+ol.lst-kix_kepv4egm85d-8 { list-style-type: none; }
+
+ol.lst-kix_98jtis9wf9ah-0.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-0 0; }
+
+.lst-kix_98jtis9wf9ah-6 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-6 1; }
+
+ol.lst-kix_hhyl6ec64ev1-1 { list-style-type: none; }
+
+ol.lst-kix_hhyl6ec64ev1-0 { list-style-type: none; }
+
+.lst-kix_kepv4egm85d-7 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-7, lower-latin) ". "; }
+
+ol.lst-kix_hhyl6ec64ev1-3 { list-style-type: none; }
+
+ol.lst-kix_5qcsr517ouwn-5.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-5 0; }
+
+ol.lst-kix_hhyl6ec64ev1-2 { list-style-type: none; }
+
+ol.lst-kix_hhyl6ec64ev1-5 { list-style-type: none; }
+
+ol.lst-kix_hhyl6ec64ev1-4 { list-style-type: none; }
+
+.lst-kix_kepv4egm85d-8 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-8, lower-roman) ". "; }
+
+ol.lst-kix_1x1weo1fm6c0-8.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-8 0; }
+
+.lst-kix_xxlsx7ubeyb5-6 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-6 1; }
+
+.lst-kix_4riywqyv4gu5-3 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-3 1; }
+
+ol.lst-kix_kepv4egm85d-1.start { counter-reset: lst-ctn-kix_kepv4egm85d-1 0; }
+
+.lst-kix_98jtis9wf9ah-2 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-2 1; }
+
+ol.lst-kix_it2757i2vc22-2.start { counter-reset: lst-ctn-kix_it2757i2vc22-2 0; }
+
+.lst-kix_uzwtk6q6390z-6 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-6 1; }
+
+.lst-kix_98jtis9wf9ah-4 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-4, lower-latin) ". "; }
+
+ol.lst-kix_it2757i2vc22-8.start { counter-reset: lst-ctn-kix_it2757i2vc22-8 0; }
+
+ol.lst-kix_1x1weo1fm6c0-7.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-7 0; }
+
+.lst-kix_hhyl6ec64ev1-7 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-7 1; }
+
+ol.lst-kix_it2757i2vc22-8 { list-style-type: none; }
+
+ol.lst-kix_it2757i2vc22-1.start { counter-reset: lst-ctn-kix_it2757i2vc22-1 0; }
+
+ol.lst-kix_it2757i2vc22-7 { list-style-type: none; }
+
+.lst-kix_98jtis9wf9ah-5 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-5, lower-roman) ". "; }
+
+ol.lst-kix_it2757i2vc22-2 { list-style-type: none; }
+
+ol.lst-kix_it2757i2vc22-1 { list-style-type: none; }
+
+ol.lst-kix_it2757i2vc22-0 { list-style-type: none; }
+
+.lst-kix_xxlsx7ubeyb5-2 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-2 1; }
+
+ol.lst-kix_it2757i2vc22-6 { list-style-type: none; }
+
+.lst-kix_98jtis9wf9ah-8 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-8, lower-roman) ". "; }
+
+ol.lst-kix_it2757i2vc22-5 { list-style-type: none; }
+
+ol.lst-kix_it2757i2vc22-4 { list-style-type: none; }
+
+ol.lst-kix_it2757i2vc22-3 { list-style-type: none; }
+
+ol.lst-kix_xxlsx7ubeyb5-4.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-4 0; }
+
+.lst-kix_it2757i2vc22-3 > li { counter-increment: lst-ctn-kix_it2757i2vc22-3 1; }
+
+ol.lst-kix_98jtis9wf9ah-1.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-1 0; }
+
+.lst-kix_o9nysfaxtggw-4 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-4 1; }
+
+.lst-kix_kepv4egm85d-2 > li { counter-increment: lst-ctn-kix_kepv4egm85d-2 1; }
+
+.lst-kix_oephdaue9t3w-4 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-4, lower-latin) ". "; }
+
+.lst-kix_oephdaue9t3w-8 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-8, lower-roman) ". "; }
+
+.lst-kix_it2757i2vc22-5 > li { counter-increment: lst-ctn-kix_it2757i2vc22-5 1; }
+
+.lst-kix_uzwtk6q6390z-6 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-6) ". "; }
+
+ol.lst-kix_1x1weo1fm6c0-3 { list-style-type: none; }
+
+.lst-kix_vc1dkh9wkzu7-4 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-4, lower-latin) ". "; }
+
+ol.lst-kix_1x1weo1fm6c0-4 { list-style-type: none; }
+
+ol.lst-kix_1x1weo1fm6c0-1 { list-style-type: none; }
+
+ol.lst-kix_1x1weo1fm6c0-2 { list-style-type: none; }
+
+ol.lst-kix_1x1weo1fm6c0-0 { list-style-type: none; }
+
+.lst-kix_oephdaue9t3w-3 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-3 1; }
+
+.lst-kix_uzwtk6q6390z-2 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-2, lower-roman) ". "; }
+
+ol.lst-kix_5qcsr517ouwn-1.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-1 0; }
+
+ol.lst-kix_uzwtk6q6390z-7 { list-style-type: none; }
+
+.lst-kix_vc1dkh9wkzu7-8 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-8, lower-roman) ". "; }
+
+ol.lst-kix_it2757i2vc22-3.start { counter-reset: lst-ctn-kix_it2757i2vc22-3 0; }
+
+ol.lst-kix_uzwtk6q6390z-8 { list-style-type: none; }
+
+ol.lst-kix_uzwtk6q6390z-5 { list-style-type: none; }
+
+ol.lst-kix_uzwtk6q6390z-6 { list-style-type: none; }
+
+.lst-kix_4riywqyv4gu5-0 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-0 1; }
+
+.lst-kix_it2757i2vc22-4 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-4, lower-latin) ". "; }
+
+.lst-kix_o9nysfaxtggw-8 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-8, lower-roman) ". "; }
+
+ol.lst-kix_uzwtk6q6390z-0 { list-style-type: none; }
+
+ol.lst-kix_uzwtk6q6390z-3 { list-style-type: none; }
+
+ol.lst-kix_uzwtk6q6390z-4 { list-style-type: none; }
+
+ol.lst-kix_kepv4egm85d-0.start { counter-reset: lst-ctn-kix_kepv4egm85d-0 0; }
+
+ol.lst-kix_xxlsx7ubeyb5-2.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-2 0; }
+
+ol.lst-kix_uzwtk6q6390z-1 { list-style-type: none; }
+
+.lst-kix_98jtis9wf9ah-1 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-1, lower-latin) ". "; }
+
+ol.lst-kix_uzwtk6q6390z-2 { list-style-type: none; }
+
+.lst-kix_o9nysfaxtggw-6 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-6 1; }
+
+.lst-kix_kepv4egm85d-0 > li { counter-increment: lst-ctn-kix_kepv4egm85d-0 1; }
+
+.lst-kix_it2757i2vc22-8 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-8, lower-roman) ". "; }
+
+ol.lst-kix_it2757i2vc22-6.start { counter-reset: lst-ctn-kix_it2757i2vc22-6 0; }
+
+ol.lst-kix_o9nysfaxtggw-5 { list-style-type: none; }
+
+ol.lst-kix_o9nysfaxtggw-6 { list-style-type: none; }
+
+ol.lst-kix_o9nysfaxtggw-7 { list-style-type: none; }
+
+ol.lst-kix_o9nysfaxtggw-8 { list-style-type: none; }
+
+.lst-kix_vc1dkh9wkzu7-0 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-0 1; }
+
+.lst-kix_oephdaue9t3w-1 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-1 1; }
+
+ol.lst-kix_5qcsr517ouwn-5 { list-style-type: none; }
+
+ol.lst-kix_xxlsx7ubeyb5-1.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-1 0; }
+
+ol.lst-kix_5qcsr517ouwn-6 { list-style-type: none; }
+
+ol.lst-kix_5qcsr517ouwn-7 { list-style-type: none; }
+
+.lst-kix_hhyl6ec64ev1-7 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-7, lower-latin) ". "; }
+
+ol.lst-kix_5qcsr517ouwn-8 { list-style-type: none; }
+
+.lst-kix_1x1weo1fm6c0-2 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-2 1; }
+
+ol.lst-kix_o9nysfaxtggw-0 { list-style-type: none; }
+
+ol.lst-kix_o9nysfaxtggw-1 { list-style-type: none; }
+
+ol.lst-kix_o9nysfaxtggw-2 { list-style-type: none; }
+
+ol.lst-kix_o9nysfaxtggw-3 { list-style-type: none; }
+
+ol.lst-kix_o9nysfaxtggw-4 { list-style-type: none; }
+
+ol.lst-kix_it2757i2vc22-5.start { counter-reset: lst-ctn-kix_it2757i2vc22-5 0; }
+
+.lst-kix_hhyl6ec64ev1-3 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-3) ". "; }
+
+ol.lst-kix_5qcsr517ouwn-0 { list-style-type: none; }
+
+ol.lst-kix_5qcsr517ouwn-1 { list-style-type: none; }
+
+ol.lst-kix_5qcsr517ouwn-2 { list-style-type: none; }
+
+ol.lst-kix_5qcsr517ouwn-3 { list-style-type: none; }
+
+ol.lst-kix_5qcsr517ouwn-4 { list-style-type: none; }
+
+.lst-kix_uzwtk6q6390z-4 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-4 1; }
+
+ol.lst-kix_xxlsx7ubeyb5-0.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-0 0; }
+
+.lst-kix_98jtis9wf9ah-4 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-4 1; }
+
+.lst-kix_kepv4egm85d-0 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-0) ". "; }
+
+.lst-kix_it2757i2vc22-0 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-0) ". "; }
+
+ol.lst-kix_1x1weo1fm6c0-7 { list-style-type: none; }
+
+ol.lst-kix_1x1weo1fm6c0-8 { list-style-type: none; }
+
+.lst-kix_4riywqyv4gu5-2 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-2, lower-roman) ". "; }
+
+ol.lst-kix_1x1weo1fm6c0-5 { list-style-type: none; }
+
+.lst-kix_o9nysfaxtggw-4 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-4, lower-latin) ". "; }
+
+ol.lst-kix_1x1weo1fm6c0-6 { list-style-type: none; }
+
+ol.lst-kix_xxlsx7ubeyb5-8 { list-style-type: none; }
+
+ol.lst-kix_xxlsx7ubeyb5-7 { list-style-type: none; }
+
+.lst-kix_5qcsr517ouwn-4 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-4 1; }
+
+ol.lst-kix_xxlsx7ubeyb5-6 { list-style-type: none; }
+
+ol.lst-kix_xxlsx7ubeyb5-5 { list-style-type: none; }
+
+.lst-kix_oephdaue9t3w-0 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-0) ". "; }
+
+ol.lst-kix_xxlsx7ubeyb5-0 { list-style-type: none; }
+
+.lst-kix_vc1dkh9wkzu7-0 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-0) ". "; }
+
+.lst-kix_4riywqyv4gu5-5 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-5 1; }
+
+ol.lst-kix_xxlsx7ubeyb5-4 { list-style-type: none; }
+
+ol.lst-kix_xxlsx7ubeyb5-3 { list-style-type: none; }
+
+.lst-kix_4riywqyv4gu5-6 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-6) ". "; }
+
+ol.lst-kix_xxlsx7ubeyb5-2 { list-style-type: none; }
+
+ol.lst-kix_it2757i2vc22-4.start { counter-reset: lst-ctn-kix_it2757i2vc22-4 0; }
+
+.lst-kix_o9nysfaxtggw-0 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-0) ". "; }
+
+ol.lst-kix_xxlsx7ubeyb5-1 { list-style-type: none; }
+
+.lst-kix_4riywqyv4gu5-6 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-6 1; }
+
+.lst-kix_oephdaue9t3w-8 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-8 1; }
+
+ol.lst-kix_vc1dkh9wkzu7-5.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-5 0; }
+
+.lst-kix_it2757i2vc22-0 > li { counter-increment: lst-ctn-kix_it2757i2vc22-0 1; }
+
+.lst-kix_kepv4egm85d-7 > li { counter-increment: lst-ctn-kix_kepv4egm85d-7 1; }
+
+.lst-kix_5qcsr517ouwn-2 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-2 1; }
+
+ol.lst-kix_1x1weo1fm6c0-5.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-5 0; }
+
+.lst-kix_o9nysfaxtggw-8 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-8 1; }
+
+.lst-kix_98jtis9wf9ah-3 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-3 1; }
+
+ol.lst-kix_uzwtk6q6390z-7.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-7 0; }
+
+ol.lst-kix_98jtis9wf9ah-8 { list-style-type: none; }
+
+ol.lst-kix_oephdaue9t3w-6.start { counter-reset: lst-ctn-kix_oephdaue9t3w-6 0; }
+
+ol.lst-kix_98jtis9wf9ah-6 { list-style-type: none; }
+
+ol.lst-kix_98jtis9wf9ah-7 { list-style-type: none; }
+
+ol.lst-kix_98jtis9wf9ah-4 { list-style-type: none; }
+
+ol.lst-kix_98jtis9wf9ah-5 { list-style-type: none; }
+
+ol.lst-kix_98jtis9wf9ah-2 { list-style-type: none; }
+
+ol.lst-kix_98jtis9wf9ah-3 { list-style-type: none; }
+
+.lst-kix_xxlsx7ubeyb5-3 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-3 1; }
+
+.lst-kix_vc1dkh9wkzu7-3 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-3 1; }
+
+ol.lst-kix_98jtis9wf9ah-0 { list-style-type: none; }
+
+ol.lst-kix_98jtis9wf9ah-1 { list-style-type: none; }
+
+ol.lst-kix_5qcsr517ouwn-2.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-2 0; }
+
+ol.lst-kix_vc1dkh9wkzu7-0.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-0 0; }
+
+.lst-kix_xxlsx7ubeyb5-0 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-0) ". "; }
+
+.lst-kix_xxlsx7ubeyb5-2 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-2, lower-roman) ". "; }
+
+.lst-kix_xxlsx7ubeyb5-1 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-1, lower-latin) ". "; }
+
+.lst-kix_xxlsx7ubeyb5-6 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-6) ". "; }
+
+.lst-kix_xxlsx7ubeyb5-7 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-7, lower-latin) ". "; }
+
+ol.lst-kix_98jtis9wf9ah-2.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-2 0; }
+
+.lst-kix_xxlsx7ubeyb5-5 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-5, lower-roman) ". "; }
+
+.lst-kix_uzwtk6q6390z-0 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-0 1; }
+
+.lst-kix_xxlsx7ubeyb5-4 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-4, lower-latin) ". "; }
+
+.lst-kix_5qcsr517ouwn-6 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-6 1; }
+
+.lst-kix_xxlsx7ubeyb5-3 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-3) ". "; }
+
+.lst-kix_hhyl6ec64ev1-4 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-4 1; }
+
+.lst-kix_vc1dkh9wkzu7-7 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-7 1; }
+
+ol.lst-kix_hhyl6ec64ev1-4.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-4 0; }
+
+.lst-kix_xxlsx7ubeyb5-8 > li::before { content: "" counter(lst-ctn-kix_xxlsx7ubeyb5-8, lower-roman) ". "; }
+
+ol.lst-kix_1x1weo1fm6c0-0.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-0 0; }
+
+.lst-kix_o9nysfaxtggw-1 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-1 1; }
+
+ol.lst-kix_uzwtk6q6390z-2.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-2 0; }
+
+.lst-kix_oephdaue9t3w-5 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-5, lower-roman) ". "; }
+
+.lst-kix_oephdaue9t3w-7 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-7, lower-latin) ". "; }
+
+ol.lst-kix_98jtis9wf9ah-4.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-4 0; }
+
+ol.lst-kix_5qcsr517ouwn-4.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-4 0; }
+
+.lst-kix_oephdaue9t3w-1 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-1, lower-latin) ". "; }
+
+.lst-kix_oephdaue9t3w-3 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-3) ". "; }
+
+.lst-kix_uzwtk6q6390z-7 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-7, lower-latin) ". "; }
+
+.lst-kix_vc1dkh9wkzu7-5 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-5, lower-roman) ". "; }
+
+.lst-kix_uzwtk6q6390z-1 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-1, lower-latin) ". "; }
+
+.lst-kix_uzwtk6q6390z-3 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-3) ". "; }
+
+ol.lst-kix_98jtis9wf9ah-7.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-7 0; }
+
+.lst-kix_1x1weo1fm6c0-6 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-6 1; }
+
+.lst-kix_uzwtk6q6390z-5 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-5, lower-roman) ". "; }
+
+.lst-kix_vc1dkh9wkzu7-7 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-7, lower-latin) ". "; }
+
+.lst-kix_98jtis9wf9ah-2 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-2, lower-roman) ". "; }
+
+ol.lst-kix_o9nysfaxtggw-7.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-7 0; }
+
+ol.lst-kix_4riywqyv4gu5-8 { list-style-type: none; }
+
+ol.lst-kix_4riywqyv4gu5-7 { list-style-type: none; }
+
+ol.lst-kix_4riywqyv4gu5-4 { list-style-type: none; }
+
+ol.lst-kix_4riywqyv4gu5-3 { list-style-type: none; }
+
+ol.lst-kix_4riywqyv4gu5-6 { list-style-type: none; }
+
+ol.lst-kix_4riywqyv4gu5-5 { list-style-type: none; }
+
+ol.lst-kix_4riywqyv4gu5-0 { list-style-type: none; }
+
+.lst-kix_98jtis9wf9ah-0 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-0) ". "; }
+
+ol.lst-kix_xxlsx7ubeyb5-5.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-5 0; }
+
+.lst-kix_kepv4egm85d-3 > li { counter-increment: lst-ctn-kix_kepv4egm85d-3 1; }
+
+ol.lst-kix_4riywqyv4gu5-2 { list-style-type: none; }
+
+ol.lst-kix_4riywqyv4gu5-1 { list-style-type: none; }
+
+.lst-kix_98jtis9wf9ah-0 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-0 1; }
+
+ol.lst-kix_kepv4egm85d-3.start { counter-reset: lst-ctn-kix_kepv4egm85d-3 0; }
+
+.lst-kix_xxlsx7ubeyb5-0 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-0 1; }
+
+.lst-kix_oephdaue9t3w-4 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-4 1; }
+
+.lst-kix_1x1weo1fm6c0-5 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-5 1; }
+
+.lst-kix_xxlsx7ubeyb5-7 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-7 1; }
+
+ol.lst-kix_oephdaue9t3w-8.start { counter-reset: lst-ctn-kix_oephdaue9t3w-8 0; }
+
+.lst-kix_oephdaue9t3w-5 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-5 1; }
+
+ol.lst-kix_uzwtk6q6390z-5.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-5 0; }
+
+.lst-kix_it2757i2vc22-8 > li { counter-increment: lst-ctn-kix_it2757i2vc22-8 1; }
+
+.lst-kix_it2757i2vc22-7 > li { counter-increment: lst-ctn-kix_it2757i2vc22-7 1; }
+
+.lst-kix_hhyl6ec64ev1-0 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-0 1; }
+
+.lst-kix_kepv4egm85d-4 > li { counter-increment: lst-ctn-kix_kepv4egm85d-4 1; }
+
+ol.lst-kix_xxlsx7ubeyb5-7.start { counter-reset: lst-ctn-kix_xxlsx7ubeyb5-7 0; }
+
+.lst-kix_uzwtk6q6390z-7 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-7 1; }
+
+ol.lst-kix_kepv4egm85d-5.start { counter-reset: lst-ctn-kix_kepv4egm85d-5 0; }
+
+.lst-kix_98jtis9wf9ah-7 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-7 1; }
+
+.lst-kix_vc1dkh9wkzu7-3 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-3) ". "; }
+
+.lst-kix_4riywqyv4gu5-2 > li { counter-increment: lst-ctn-kix_4riywqyv4gu5-2 1; }
+
+ol.lst-kix_hhyl6ec64ev1-7.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-7 0; }
+
+ol.lst-kix_5qcsr517ouwn-7.start { counter-reset: lst-ctn-kix_5qcsr517ouwn-7 0; }
+
+.lst-kix_vc1dkh9wkzu7-1 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-1, lower-latin) ". "; }
+
+ol.lst-kix_1x1weo1fm6c0-3.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-3 0; }
+
+.lst-kix_1x1weo1fm6c0-7 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-7, lower-latin) ". "; }
+
+.lst-kix_1x1weo1fm6c0-4 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-4, lower-latin) ". "; }
+
+.lst-kix_1x1weo1fm6c0-8 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-8, lower-roman) ". "; }
+
+.lst-kix_uzwtk6q6390z-8 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-8 1; }
+
+ol.lst-kix_4riywqyv4gu5-2.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-2 0; }
+
+.lst-kix_vc1dkh9wkzu7-6 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-6 1; }
+
+ol.lst-kix_oephdaue9t3w-3.start { counter-reset: lst-ctn-kix_oephdaue9t3w-3 0; }
+
+.lst-kix_kepv4egm85d-8 > li { counter-increment: lst-ctn-kix_kepv4egm85d-8 1; }
+
+.lst-kix_kepv4egm85d-5 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-5, lower-roman) ". "; }
+
+.lst-kix_1x1weo1fm6c0-0 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-0) ". "; }
+
+.lst-kix_hhyl6ec64ev1-3 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-3 1; }
+
+ol.lst-kix_1x1weo1fm6c0-2.start { counter-reset: lst-ctn-kix_1x1weo1fm6c0-2 0; }
+
+.lst-kix_5qcsr517ouwn-3 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-3 1; }
+
+.lst-kix_1x1weo1fm6c0-3 > li::before { content: "" counter(lst-ctn-kix_1x1weo1fm6c0-3) ". "; }
+
+.lst-kix_kepv4egm85d-1 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-1, lower-latin) ". "; }
+
+ol.lst-kix_hhyl6ec64ev1-6.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-6 0; }
+
+.lst-kix_kepv4egm85d-2 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-2, lower-roman) ". "; }
+
+.lst-kix_5qcsr517ouwn-5 > li { counter-increment: lst-ctn-kix_5qcsr517ouwn-5 1; }
+
+.lst-kix_oephdaue9t3w-7 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-7 1; }
+
+ol.lst-kix_o9nysfaxtggw-0.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-0 0; }
+
+ol.lst-kix_uzwtk6q6390z-4.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-4 0; }
+
+.lst-kix_kepv4egm85d-6 > li { counter-increment: lst-ctn-kix_kepv4egm85d-6 1; }
+
+ol.lst-kix_vc1dkh9wkzu7-8.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-8 0; }
+
+.lst-kix_o9nysfaxtggw-0 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-0 1; }
+
+.lst-kix_kepv4egm85d-6 > li::before { content: "" counter(lst-ctn-kix_kepv4egm85d-6) ". "; }
+
+.lst-kix_hhyl6ec64ev1-5 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-5 1; }
+
+ol.lst-kix_98jtis9wf9ah-6.start { counter-reset: lst-ctn-kix_98jtis9wf9ah-6 0; }
+
+ol.lst-kix_vc1dkh9wkzu7-2.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-2 0; }
+
+.lst-kix_1x1weo1fm6c0-8 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-8 1; }
+
+ol.lst-kix_4riywqyv4gu5-7.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-7 0; }
+
+ol.lst-kix_vc1dkh9wkzu7-7.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-7 0; }
+
+.lst-kix_98jtis9wf9ah-8 > li { counter-increment: lst-ctn-kix_98jtis9wf9ah-8 1; }
+
+.lst-kix_oephdaue9t3w-0 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-0 1; }
+
+ol.lst-kix_kepv4egm85d-7.start { counter-reset: lst-ctn-kix_kepv4egm85d-7 0; }
+
+.lst-kix_xxlsx7ubeyb5-8 > li { counter-increment: lst-ctn-kix_xxlsx7ubeyb5-8 1; }
+
+ol.lst-kix_o9nysfaxtggw-6.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-6 0; }
+
+.lst-kix_98jtis9wf9ah-3 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-3) ". "; }
+
+ol.lst-kix_vc1dkh9wkzu7-2 { list-style-type: none; }
+
+.lst-kix_hhyl6ec64ev1-1 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-1 1; }
+
+ol.lst-kix_vc1dkh9wkzu7-1 { list-style-type: none; }
+
+ol.lst-kix_vc1dkh9wkzu7-0 { list-style-type: none; }
+
+ol.lst-kix_vc1dkh9wkzu7-1.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-1 0; }
+
+ol.lst-kix_oephdaue9t3w-4.start { counter-reset: lst-ctn-kix_oephdaue9t3w-4 0; }
+
+.lst-kix_98jtis9wf9ah-6 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-6) ". "; }
+
+.lst-kix_1x1weo1fm6c0-1 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-1 1; }
+
+ol.lst-kix_vc1dkh9wkzu7-8 { list-style-type: none; }
+
+ol.lst-kix_vc1dkh9wkzu7-7 { list-style-type: none; }
+
+.lst-kix_vc1dkh9wkzu7-4 > li { counter-increment: lst-ctn-kix_vc1dkh9wkzu7-4 1; }
+
+ol.lst-kix_vc1dkh9wkzu7-6 { list-style-type: none; }
+
+ol.lst-kix_vc1dkh9wkzu7-5 { list-style-type: none; }
+
+ol.lst-kix_vc1dkh9wkzu7-4 { list-style-type: none; }
+
+.lst-kix_98jtis9wf9ah-7 > li::before { content: "" counter(lst-ctn-kix_98jtis9wf9ah-7, lower-latin) ". "; }
+
+ol.lst-kix_4riywqyv4gu5-1.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-1 0; }
+
+ol.lst-kix_vc1dkh9wkzu7-3 { list-style-type: none; }
+
+.lst-kix_it2757i2vc22-6 > li { counter-increment: lst-ctn-kix_it2757i2vc22-6 1; }
+
+ol.lst-kix_4riywqyv4gu5-8.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-8 0; }
+
+.lst-kix_o9nysfaxtggw-7 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-7 1; }
+
+ol.lst-kix_o9nysfaxtggw-5.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-5 0; }
+
+ol.lst-kix_kepv4egm85d-8.start { counter-reset: lst-ctn-kix_kepv4egm85d-8 0; }
+
+.lst-kix_oephdaue9t3w-6 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-6) ". "; }
+
+.lst-kix_oephdaue9t3w-2 > li::before { content: "" counter(lst-ctn-kix_oephdaue9t3w-2, lower-roman) ". "; }
+
+.lst-kix_oephdaue9t3w-2 > li { counter-increment: lst-ctn-kix_oephdaue9t3w-2 1; }
+
+.lst-kix_uzwtk6q6390z-3 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-3 1; }
+
+.lst-kix_uzwtk6q6390z-8 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-8, lower-roman) ". "; }
+
+ol.lst-kix_o9nysfaxtggw-4.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-4 0; }
+
+.lst-kix_o9nysfaxtggw-5 > li { counter-increment: lst-ctn-kix_o9nysfaxtggw-5 1; }
+
+ol.lst-kix_uzwtk6q6390z-0.start { counter-reset: lst-ctn-kix_uzwtk6q6390z-0 0; }
+
+.lst-kix_vc1dkh9wkzu7-6 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-6) ". "; }
+
+.lst-kix_kepv4egm85d-1 > li { counter-increment: lst-ctn-kix_kepv4egm85d-1 1; }
+
+.lst-kix_it2757i2vc22-6 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-6) ". "; }
+
+.lst-kix_it2757i2vc22-4 > li { counter-increment: lst-ctn-kix_it2757i2vc22-4 1; }
+
+.lst-kix_uzwtk6q6390z-4 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-4, lower-latin) ". "; }
+
+ol.lst-kix_o9nysfaxtggw-1.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-1 0; }
+
+ol.lst-kix_hhyl6ec64ev1-2.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-2 0; }
+
+ol.lst-kix_vc1dkh9wkzu7-6.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-6 0; }
+
+ol.lst-kix_4riywqyv4gu5-6.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-6 0; }
+
+ol.lst-kix_oephdaue9t3w-2.start { counter-reset: lst-ctn-kix_oephdaue9t3w-2 0; }
+
+.lst-kix_uzwtk6q6390z-0 > li::before { content: "" counter(lst-ctn-kix_uzwtk6q6390z-0) ". "; }
+
+.lst-kix_hhyl6ec64ev1-8 > li { counter-increment: lst-ctn-kix_hhyl6ec64ev1-8 1; }
+
+.lst-kix_uzwtk6q6390z-5 > li { counter-increment: lst-ctn-kix_uzwtk6q6390z-5 1; }
+
+ol.lst-kix_4riywqyv4gu5-3.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-3 0; }
+
+.lst-kix_hhyl6ec64ev1-5 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-5, lower-roman) ". "; }
+
+ol.lst-kix_hhyl6ec64ev1-1.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-1 0; }
+
+ol.lst-kix_o9nysfaxtggw-3.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-3 0; }
+
+.lst-kix_1x1weo1fm6c0-3 > li { counter-increment: lst-ctn-kix_1x1weo1fm6c0-3 1; }
+
+ol.lst-kix_4riywqyv4gu5-4.start { counter-reset: lst-ctn-kix_4riywqyv4gu5-4 0; }
+
+ol.lst-kix_vc1dkh9wkzu7-3.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-3 0; }
+
+.lst-kix_hhyl6ec64ev1-1 > li::before { content: "" counter(lst-ctn-kix_hhyl6ec64ev1-1, lower-latin) ". "; }
+
+.lst-kix_it2757i2vc22-2 > li::before { content: "" counter(lst-ctn-kix_it2757i2vc22-2, lower-roman) ". "; }
+
+.lst-kix_4riywqyv4gu5-4 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-4, lower-latin) ". "; }
+
+ol.lst-kix_o9nysfaxtggw-2.start { counter-reset: lst-ctn-kix_o9nysfaxtggw-2 0; }
+
+.lst-kix_o9nysfaxtggw-2 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-2, lower-roman) ". "; }
+
+.lst-kix_o9nysfaxtggw-6 > li::before { content: "" counter(lst-ctn-kix_o9nysfaxtggw-6) ". "; }
+
+.lst-kix_4riywqyv4gu5-0 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-0) ". "; }
+
+.lst-kix_4riywqyv4gu5-8 > li::before { content: "" counter(lst-ctn-kix_4riywqyv4gu5-8, lower-roman) ". "; }
+
+ol.lst-kix_vc1dkh9wkzu7-4.start { counter-reset: lst-ctn-kix_vc1dkh9wkzu7-4 0; }
+
+ol.lst-kix_hhyl6ec64ev1-0.start { counter-reset: lst-ctn-kix_hhyl6ec64ev1-0 0; }
+
+ol.lst-kix_oephdaue9t3w-1.start { counter-reset: lst-ctn-kix_oephdaue9t3w-1 0; }
+
+.lst-kix_vc1dkh9wkzu7-2 > li::before { content: "" counter(lst-ctn-kix_vc1dkh9wkzu7-2, lower-roman) ". "; }
+------MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://themes.googleusercontent.com/fonts/css?kit=qQd6D95egUzVkA2ytt6-zw
+
+@charset "utf-8";
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: binary
+Content-Location: https://lh4.googleusercontent.com/eHS0i0QK7zB5YGsdM9DiPKNsIX4dfD1NGcj0vib0f0ommyrwRfOTPnuOZQR4GuEYaeEgDkjrZqQZWe-vOxT_iy05AJid0h85v1GNIl95GRYxokmytm1Z6aaxM2QPwxbmEV7LM7kska26QiQOi-u3qyl_5fOwDOkhirU8Jk9F2TaQTBaJDrz71lhOjgxr=s320
+
+ÿØÿà JFIF      ÿÛ „ 	
+
+
+
+
+
+	
+
+
+		ÿÀ  4@ ÿÄ             	ÿÄ 6     !"1AQ	#2B$a%3Sqs‘¡ğÿÄ                 ÿÄ                 ÿÚ   ? ùY 4ƒ:h 4€ĞA4€Ğg@q ì?Hñíû¶?êw3¯%jøºõ
+²Ùy#’zñÅà–İÉêSX²è©
+y`YŒ‰+?p`e†ykN½&…Ú9S²9IğÈÅ—²U—USÁ çè Îƒ@h=¬Óuëİ{¨tì¥{!ä^@ì§ƒÃƒÁùøĞ?=RôWnPÉ$™Yrìõ/%?"Jf–¬¥LÌ¦r°Ã,í°#D¯ãé#}Ğ@hÆ?$’$QFòË#8ÕI
+¨Š31<PI:ßî·Üö!¶í×‚ ¥n¾O^¼•ND§š3O³ı4±5’ ìcÃÎéP 4ùíóÚ\Ùl~N|}ØNKÕ˜b6Y'«+„’À°YcHáb{ ®GSßÄ3 Cw¶É¯.Y1xä»ÃGFP™%iIY¬F½ŠGÒ–ğ…*«Y"w=ŒB_¼ınZ”­d2b§Z¢+Êó_¡Ø†qˆÒ;.îììª¨,Ìö'Ÿ¤›Ó›loŒÑw¹‹LÑHY‡…måˆ@B3:,hÔ•RàqØèZ@h ìí­ŸjÁ™jÁ,æ½yîOãRÂ°!’y¥?„Š5,ÄÅTrÎªÁÆĞæğØ•ê`ñ“HòYÁ=¾²‚­CVŠ#óäÉOòıK|ĞÆ±&•œ }‡zU… §fd±8§ÇÖˆ @½~¤7ˆ7p¤8ùĞyní¶`³-f–	šèòV“Í~ °I@'F&6då+ug^ƒgÓ½œö²qñ°G½jµDriæHC¿bôĞt½eÚPÕËd¨W24T.Y¤¯)ä5¥jï#u +ÆÒí“Ç$,·³ó¿YöNnµ(á¿å8l¨†8îRË¹-yÔ+Î³¹X;òİc­ıD•V0Tî]7=gÚí}éÁšÍI ©zÒYØÏşòğİ–9¤‰’b%B9Of€Ğ4½ô5¯Ãš°'XŠ³”uëŞIÌeR8r¡T»òz¨à+·@ÓôÓˆ'–åÛàœV«ßÈsMò!¥R7 ‘%ëÒA\ÈV&™ÕÕ‘ykÑÁ—«[pšøÚøæ”bÕ«-zTñÕê@ò¼Ö¢…H«N$IKO93;€ª²yk¬€Š¡³¦šËÖÇÅ>Aƒ¸‹ékÍ$“FªÈ°*´ªun¬¼¯`@ÊõsÑˆj`¶åÂ&\†RLé½§¥~:D‘ğ:”x¬3–å‹¹ğŠ X*»“ıC³m‹çş³³Œ6RìqB­>w)eQx•Í¢2tá9ğ×ùšc VzÇî¬>vÖ&ÆZ|Hjí,Ù™¡šwZÀ
+ğS‚8ÊP¥*È%y[¬hY
+H§@ïÌúCEvm,ìm3_Ÿ7c8b)tÄè±(şâİ•ÚFàòJ€òÁô[`›¹|f4+°½v­gè	+“"Ìÿ  •X¢/#?"#1à):´½‡pnmÁK	B¾=f’…Zõc>>œ‰Nkğñ×…ÍtŒƒ$Ÿ|ÒrÇ‘[kÑ·ç»&2ˆ«JŸÍ‰-ÙH+QGRmÛ¸ñ —í/"/İÛ¿X•@POS°_gepÒ½|•š2]Vò—°mK”ICB!HGÂ;+ıË “ÿ œ_»¨Æ®å¦$´¨¤9Zİa¶ŒÜ”V`uxg~–bÿ @h µ~Õ½LL
+A¸§‹ê'ÉIôè–ã¾f‰ò¶ÙÎÑ%*‰3"4b^%Æ=ëÕœZç2mÙ¦l[Må£!G¯"$±+Ë£,r$pÊò×²†h‘Iç±$²ßsØ³¹îA~XÄ~;r~â?Nÿ ·PhC‚ŞTïLˆr8ÚiN&Rï=Ø.	`XÔá¹ò3ìOÀ+Æ€ĞzÅ]bªÄ(ìÄz¯!yn?ØÉøäúè<´‚Ùÿ şNS7ä‰6ÖiY!‡X~¿#ASƒ½°¶‹Ú½J„g‰.Ú­R3Çny’=yğÎq e{ÃÜÑË¸oÅ\§ŒdÃÑŒ‘Ö:¸äZ)Óğ‘á’Ü™I<tÙo¯ô*á¥Âç²RV§˜–qŒšå±Á=yovûÚ¬v%“Å¢v&Ÿújí!
+¹éÿ ¨tèY¸ëÇç>ã)²pÌÕV%•¹Ÿè‘ö’xÂY¤şÜ:¹'@ÜôK×[ù×µ£´*CZ®R—ÓÓ¡N½póa2×¬ˆ¥ø w~ÌqÈäò	p¶gó¤2¶[&Á”†ÙÈ AA‚4Ì.^X¦ŠÄcš	#š)û’XØ<l?å]Cü´søŠİ|¶/.‘,/Ûø|ÅˆÔòÌÉ42¯n«ß¯Óª÷*;qÏAô;Ù¦g#^í˜kZŠØùò¨Úxòoª
+Ôæˆ^g$ğ…¾>ØÜv(
+mõ°­Óµ-ğµkpu@ì…ã,‹"‡èÌen¼ò9ù@Æöõê¥ZU·!œË’ÁØÄTòÚ±YšW„D¯Oo¹»€ üèCAd¶š,>Ÿeì*“&Spc±’·'â”æÉ ãñÿ uÏ<~ON´p?hŞ»a+¥³”v|v»&Jó¬+dc5e¯æ(*²øÚvÈó™¼QÀª £Êû¦ÎETá¨æfYš
+ßC
+c|ğ+2‰]¡HíóhZTffi~@üúÅê<ñû¯9‹‹xíIÓíkV'’õ×UPÅaG+åvÊ»uU °0ÿ †áëºa£'İ[3O!‹²‡û^9jÉ"ò?ú çƒğÌ>; IìÍ›9*æoMJi&iêÖ6¦‘¢sHbìŠ¦Bõ$n¨<9áH6}özK„Çdiãğëp4xú’Ü{NŒ%’XÄ¨áG$M"·y‚²Ä¤¢$`)f	”[ÿ eÅ·©àíŞÌeÒŒ¹Y?–Ğ‹‰kE\Äg½4Œ`Q‡tdve=cÁ—³cœÎZ¬>†Ágòô¡’F›Ã"Ujõ•äâ37F´ ±EíıÜ)ã€ŠúîŠ|Msü¾".Í‘£nÍ†pJ4»<tÑ’Ô³JlHIû‘Ù@õ«%˜ÈÛÆ`²•ªŞ·%ÄÇÇ«=%“,½R¡ænÒ•E">æ5b¨ºV=!İ§Vö_n®;VšÜqÒÁäbˆ°LÑÌòÉ,ÌÌ|m#“û 
+İ«kê½3Ê×–B[oç(Ş¬>9Xn¡§$_ÛÏŒÍ4“üLŸ¯Æƒ½ìÓm´Ó®NşYMÜm\®FÎ*|=‹Uá­Z»˜íJÍIWo †Fcã:v!Z÷şÑÇ«¼x‹3d ¨ŒörV#ZÎY€kS–F•8è¾Iiœø¢T ‡;°&†¥[s´(.wjõü­4Çû‰!PLäcÖ&‘¦á4‘}¦çÛ«	‰<ñM#Ä²L°ë]Ø·´€ôyU´9TgéÉd` ÙÄ{3İö!†xğ™9¡xÀìœ£$pV>•^ ş>tšÿ Ã·y‘ÉÁÍıç³B¸ÿ æ{Qè7èÿ ÁÃ’a±¡Oï³xáññóÅYíp>xû¸?ñøĞ~kû&Œ1w~Î€)àôÌ}C‚qÀ#ö~4_Yı+ÇÓğ-<õ,Ô²ö2ŠÙX«¨$/içDWw!¿¦‹ÈPğy¥eRÊõR@f±Uçä…äv |ñÈçñÈĞ_ßCnì¨öÖí’ºnY`ú\L±ü¦fºRÇ4idCŞ`Í*Îd4_î*
+Iê6^„–ä|e9)RRf°Öl£ƒ%‰ˆTidnX¬1Çª•.á­±VÕÁüÌÛZÿ İÜñpyÅ†H|„ğ;HÜ(%¸~:³»kyì:o,¸ì†øG³Zj³#ÂÃ ¯7Q,M3òT¸PÂœğ9à‚SÕ}×·Şká16êøß¼·òÍ»–W†31AJä÷&8‹±U”îßaUà;Ço<_/p8óª;UãŸóú•‹§ëß¯<h>°QtËe"”u–<…èäòlÊ®ü†h:¾ˆúoFå§¯5S	‰;âT–_ñú+Ö0~KI,Š!=ty½–bÇÏúïj‘úqbr÷Uˆ‘ æÇèÛ‚Eiwõ$‘xel~#/mÔşé"$ÿ ÕS áoİ™²á£)¥šËår=zÀ˜ú~Cşs}CË0‰=#%Éàr9, ‡†"HU™ˆ
+ rI'€ $“ğ ü4Ş†h}^Ø°XVàV©~%–{‘¤©jóY5œ©?|,?Ç€{©·Sœ©&K&óY¥_‰ª-XjµKK“¢™|uÌ5àÇâPå¬  Pì¡_mÛvvyäfwwbÎîÄ³33Y˜’KI$ŸÑ/B=DŞ7itÇdv¾ÇVY¨ã>—ë5ëÆ\<UZ¼í¨İ'±×¸ød"Bÿ Ö/tÙÜœPA•½õÀí$q¥zÕ—»;:Ö†#*ı¨díĞãíØ?–=4Ì"¸òá·Œˆ¤vÛ¬¸èÚAòB4¯ SñË'ı§SzCëÒQ‚X[·²Æi¾|Å+§Œ
+#…£¹]#‹\€™˜òÌ„¾gÖœõyü_è½©‹³%Ërvõhæ†‰QÖÁ’ìò´`±°—ÊD]{š†÷÷İº,×µRl‚ÇRäMÕ«T§V3u¡&ë"‚CÙÔü7`r„İ4.Èz×ÆE%jCı±V­BÌ’1?·=P~ìÀ~ºFáÌ´¶'°àYf`9à4Ò?^nƒ¡¾·åË–d»~Ä–lÊ<²qÉUT*""*ª¢(U  úw¦¶Ş’	våU¿~§JVíYšÆEävò%§ˆ«"Õb-;ôpÅ#‘æO´ÿ _bÅeÍš‹v¥Œ^N¡ã´Øû&?8±d4`B¸R…£ïİ½ëÜÂP·G-µ3‰v)¥{«OXı~)â+ÔZ[˜–^L<Jä"È¡ú¬ÎïZ-oˆ1æ²›§!>>Íj­FLFAÄS[²®L^§iˆûM$ ¤ŒñÅ³4†¥—{İ°A¹rÕ²¿ Ù±4äÜ]ø'ş4©™ú]•—WçÉ¸ò8ú•ârTı.0ÉrÍ¨—¯õY’½2À…,d»@Ë úëKã¦½4uâ²oc/âš9‰ñ*\ŒFÎêòŸ*ğXÈ.4A1±ë6a‡–É0ü}×í7Çà~e?Aåô÷%b¥Ü¤u¬X©HÅõ×8.‘4¬?$ŒyfbG<rT[¨ è3¼6	­qb@·gQ;S—«YĞ4Ó„öU„«\ÑÂQßƒ2ª„O@h1 š/©²ŒAÄD‹2Û[×%L–¤6Š¬mÀP°VY%uŒöí,®å¾P!zÿ ~¿ıh.¢ÿ j,RıfÒIqC,w2Ö¯O&Jk&0%DSXíO"§ZĞÙFin¨ÎBè:{gqÍšöë¿z³Cfã“E"Ëp~WU<Æ‚àzÓ¾¶nróV-ÛÛûˆWïvšÔúÊY;F£µB¯IgøŒy§‹‚;20F–@¥¼èş{ZÊä¨dobşšËcz´Øõ°?™ËšZÕ:“,qƒòK)v‘‰œtĞE=EØğÕÖyZLïÆ½~™`¦*½¸&[Q¯ßa•„q;ˆ vŠFĞB´?E1ÉV7”WJRø10È9[y‚X‹'ùÖÆ¡[“ıÊŸI	'ê §Êå$’Y&™ÚI¦w–YòòHì]ÙêÌÄ±?©:MF‚äà}¡dêãVq{|­%r9½H ¯NĞnô«¢<³5‰¢-Èa#£ø!/Úf`©—‘X–±¥‰Êü	¸ø-	š8¤1“ÏVxÔ° õè¾Ş½ÇØÅÿ 3+Az®ZŒÔ-Ó³Ï‚BÊŞ	[¨ìMwf=/ty²®€¨ÇÕv‘?™Õ‚—,ıÄ€§’>I ~ãAzıEõ¿{iO·¯ædl¦İŠ½Š9Jù™c´ce@óÃ]ì+O(ê‰g±f(fÃˆÜqÑÂİ['¼Oâ?~?’’J­ñ6VE€µaıµ æN~©Q; õ­7¬U\+*Üõ`=[©VêßƒÃÁø#ó ³¹¿â‘’Y,®j×·"õ7aÁÄm/YeYÏdUP½ƒ(è£‚
+Í’È¼’I4¬^I]ä‘Ï³»v< 9f$ü>túÎÊ÷£˜«^å
+â›b®T4N&ÄÆ>ûˆš]ùû;Èö$w3Hı¥YŠEãŞÖ±YlF×#–ZÊI’(\G$¼)(BÆ¯ Uw ²¡b °A±¼÷¤ÖeÍÑB"Ã1°V91Ãb‘!f<,ÌÎìÎÎÌCƒ 4€Ğ“ìÔ(1ÆÕ¬Ìª¸ÓG„–¤©¥Ù$eóYé)àVÄÃ'{S•eÔqpí 
+	_vÛÇn+’5‡iÔ6Ø‚n×°í46E2H‰z«:Ê  Ph 4ƒÚ›'tò1ö^áW)Èì™YUŠò*Àñ ¸»»×í2W¶öu¡§Š­Q“Š½xT_¨„ÒLß|Ö$4Ìw~«Ô+§«ûÇ<œFá¡XH‘³’’Ã’8g’u#£…H¢,Å™şĞ ¿ĞA>ôgÖ;8ÛG!@´yN•lwû ìG”½~¥,÷˜Äsö.c‘•a3÷eë6+'z¥t˜ë–k«fcî¦¬Ù z´µ#²+ ÙŠù†1+ù$œÚ	.äõÄÕ¨Ór«W©V*´ÒylÊÅ‹3Íb@¬ì[€4UDB5 4€ã@h 4€Ğ@h 4€Ğ@h Ûµ–•’(Gxá!ŠDË¸IêÜ—n rÇ“Îƒ«½}@»nTı™mK0Uån|uàŒGH>~ÎÎç³;3@h 4€Ğ@h 4€Ğ@h 4€Ğ@h 4€Ğ@h 4ÿÙ
+------MultipartBoundary--gQOzF6oa3b3kxg4G8ad61hqcUzODSskZTmZA5AGrMZ------
